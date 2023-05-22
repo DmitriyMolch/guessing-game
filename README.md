@@ -22,4 +22,5 @@ Guessing game
 6. It is written in the task that computer players can be generated on the server side. Why we need this if we don't save any data to database? Do you want it just for demonstration purpose because there is no other functionality for the backend side? Did you plan to use backend as a socket provider for LIVE (not computer) players?
 
 ## Notes:
-1. Only layout was created. The functionality was not created yet.
+1. Only layout was created. There is no design implmemented yet. 
+2. There is no functionality implemented yet.
